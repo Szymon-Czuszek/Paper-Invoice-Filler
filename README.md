@@ -1,14 +1,14 @@
 # Paper Invoice Filler
 This Python project automates the process of filling in invoice data and payment confirmation stamps on physical invoices' reverse sides. Leveraging Python's automation capabilities, the project generates appropriately named PNG files and uses them as input for a physical printer.
 
-Overview
+## Overview
 The project scope involved operations on multiple files simultaneously, reading data from an Excel file, and creating files with strictly defined naming rules. It aimed to bridge digital data with paper output through Python automation.
 
-Project Details
+## Project Details
 Duration: May 2023 - August 2023
 Company: ART-COM Sp. z o.o.
 
-Tools & Technologies
+## Tools & Technologies
 Python and Excel integration
 Python libraries: pandas, PIL, os
 Custom Python module: kwotaslownie # https://github.com/dowgird/pyliczba
@@ -20,19 +20,19 @@ Pillow library for background templates and font styles
 Handling different invoice types ("FZ", "FZK", "FZKOR") with specific formatting
 Saving generated invoice images in an "Output" folder
 
-Benefits
+## Benefits
 Improved accuracy: Reducing manual data entry errors
 Time savings: Speeding up the task of generating printable invoice details
 Consistency: Standardizing all generated invoice details
 Scalability: Applicable to a large volume of invoices, enhancing efficiency
 Flexibility: Customizable design elements for tailored invoices
 
-Setup:
+## Setup:
 Ensure Python 3.x and required dependencies are installed.
 Place invoice data in an Excel file named Invoice Data.xlsx.
 Adjust settings within the Python script as needed.
 
-Run:
+## Run:
 Execute the Python script to process and print invoices.
 Generated invoice images will be stored in the Output directory.
 
@@ -112,6 +112,6 @@ for _, record in sample_df.iterrows():
     os.remove(os.path.join(os.getcwd(), "Output", f"Invoice {record['invoice_id']}.png"))
 ```
 
-Notes
+## Notes
 Ensure proper printer settings and image templates configuration before running the script.
 Adjust time delays (time.sleep()) for system-specific printing speed.
