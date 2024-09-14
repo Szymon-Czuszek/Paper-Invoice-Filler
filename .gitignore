@@ -1,6 +1,5 @@
-# Added to the template manually by me
+# Added to the template manually by me (for macOS)
 .DS_Store
-.Rhistory
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
