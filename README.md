@@ -1,7 +1,7 @@
 # 💡 Paper Invoice Filler
 This Python project automates the process of filling in invoice data and payment confirmation stamps on physical invoices' reverse sides. Leveraging Python's automation capabilities, the project generates appropriately named PNG files and uses them as input for a physical printer.
 
-## Overview
+## 🧰 Overview
 The project scope involved operations on multiple files simultaneously, reading data from an Excel file, and creating files with strictly defined naming rules. It aimed to bridge digital data with paper output through Python automation.
 
 ## Project Details
