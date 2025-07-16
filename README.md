@@ -4,7 +4,7 @@ This Python project automates the process of filling in invoice data and payment
 ## 🧰 Overview
 The project scope involved operations on multiple files simultaneously, reading data from an Excel file, and creating files with strictly defined naming rules. It aimed to bridge digital data with paper output through Python automation.
 
-## Project Details
+## 🕒 Project Details
 Duration: May 2023 - August 2023
 Company: ART-COM Sp. z o.o.
 
