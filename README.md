@@ -32,7 +32,7 @@ Ensure Python 3.x and required dependencies are installed.
 Place invoice data in an Excel file named Invoice Data.xlsx.
 Adjust settings within the Python script as needed.
 
-## Run:
+## 🔤 Run:
 Execute the Python script to process and print invoices.
 Generated invoice images will be stored in the Output directory.
 
