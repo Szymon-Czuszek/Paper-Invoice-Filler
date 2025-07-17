@@ -27,7 +27,7 @@ Consistency: Standardizing all generated invoice details
 Scalability: Applicable to a large volume of invoices, enhancing efficiency
 Flexibility: Customizable design elements for tailored invoices
 
-## Setup:
+## 🔁 Setup:
 Ensure Python 3.x and required dependencies are installed.
 Place invoice data in an Excel file named Invoice Data.xlsx.
 Adjust settings within the Python script as needed.
