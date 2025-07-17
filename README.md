@@ -20,7 +20,7 @@ Pillow library for background templates and font styles
 Handling different invoice types ("FZ", "FZK", "FZKOR") with specific formatting
 Saving generated invoice images in an "Output" folder
 
-## Benefits
+## ✅ Benefits
 Improved accuracy: Reducing manual data entry errors
 Time savings: Speeding up the task of generating printable invoice details
 Consistency: Standardizing all generated invoice details
