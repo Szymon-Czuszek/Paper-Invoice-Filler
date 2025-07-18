@@ -38,7 +38,7 @@ Generated invoice images will be stored in the Output directory.
 
 # 🧪 Example usage of print_invoice function:
 
-**Example 1:**
+**🕵️‍♂️ Example 1:**
 
 ```python:
 # Import necessary libraries
