@@ -54,7 +54,7 @@ import pyautogui as pag
 print_invoice(invoice_total = 1000.0, invoice_date = '2023-12-31', invoice_id = 123456, invoice_type = 'FZ')
 ```
 
-**Example 2:**
+**🖱️ Example 2:**
 
 ``` python:
 # Import necessary libraries
