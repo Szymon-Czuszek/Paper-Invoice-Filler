@@ -36,7 +36,7 @@ Adjust settings within the Python script as needed.
 Execute the Python script to process and print invoices.
 Generated invoice images will be stored in the Output directory.
 
-# Example usage of print_invoice function:
+# 🧪 Example usage of print_invoice function:
 
 **Example 1:**
 
