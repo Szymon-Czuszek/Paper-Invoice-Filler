@@ -112,6 +112,6 @@ for _, record in sample_df.iterrows():
     os.remove(os.path.join(os.getcwd(), "Output", f"Invoice {record['invoice_id']}.png"))
 ```
 
-## Notes
+## 🧾 Notes
 Ensure proper printer settings and image templates configuration before running the script.
 Adjust time delays (time.sleep()) for system-specific printing speed.
