@@ -10,7 +10,7 @@ Company: ART-COM Sp. z o.o.
 
 ## 🛠️ Tools & Technologies
 ### 🧑‍💻 Python and Excel integration
-Python libraries: pandas, PIL, os
+### 📥 Python libraries: pandas, PIL, os
 Custom Python module: kwotaslownie # https://github.com/dowgird/pyliczba
 Variables Used: list, string, integer, float, tuple
 Usage of "for" loops for repetitive file operations
