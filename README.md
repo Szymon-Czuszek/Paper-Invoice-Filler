@@ -9,7 +9,7 @@ Duration: May 2023 - August 2023
 Company: ART-COM Sp. z o.o.
 
 ## 🛠️ Tools & Technologies
-### 🧑‍💻 Python and Excel integration
+- 🧑‍💻 Python and Excel integration
 ### 📥 Python libraries: pandas, PIL, os
 ### 🖨️ Custom Python module: kwotaslownie # https://github.com/dowgird/pyliczba
 ### 🧮 Variables Used: list, string, integer, float, tuple
