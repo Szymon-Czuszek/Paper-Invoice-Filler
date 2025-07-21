@@ -13,7 +13,7 @@ Company: ART-COM Sp. z o.o.
 - 📥 Python libraries: pandas, PIL, os
 - 🖨️ Custom Python module: kwotaslownie # https://github.com/dowgird/pyliczba
 - 🧮 Variables Used: list, string, integer, float, tuple
-Usage of "for" loops for repetitive file operations
+- 🔄 Usage of "for" loops for repetitive file operations
 Integration with accounting software's invoice data
 ### 🧹 Customizable font styles, sizes, and colors for printable invoice details
 Pillow library for background templates and font styles
