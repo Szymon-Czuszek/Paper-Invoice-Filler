@@ -18,7 +18,7 @@ Company: ART-COM Sp. z o.o.
 
 ### 🧹 Customizable font styles, sizes, and colors for printable invoice details
 - 🖼️ Pillow library for background templates and font styles
-Handling different invoice types ("FZ", "FZK", "FZKOR") with specific formatting
+- 🧾 Handling different invoice types ("FZ", "FZK", "FZKOR") with specific formatting
 Saving generated invoice images in an "Output" folder
 
 ## ✅ Benefits
