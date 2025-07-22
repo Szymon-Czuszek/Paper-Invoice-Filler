@@ -22,10 +22,10 @@ Company: ART-COM Sp. z o.o.
 - 🖨️ Saving generated invoice images in an "Output" folder
 
 ## ✅ Benefits
-⚠️ Improved accuracy: Reducing manual data entry errors
+- ⚠️ Improved accuracy: Reducing manual data entry errors
 Time savings: Speeding up the task of generating printable invoice details
 Consistency: Standardizing all generated invoice details
-Scalability: Applicable to a large volume of invoices, enhancing efficiency
+- 🧪 Scalability: Applicable to a large volume of invoices, enhancing efficiency
 Flexibility: Customizable design elements for tailored invoices
 
 ## 🔁 Setup:
