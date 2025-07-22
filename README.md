@@ -23,7 +23,7 @@ Company: ART-COM Sp. z o.o.
 
 ## ✅ Benefits
 - ⚠️ Improved accuracy: Reducing manual data entry errors
-Time savings: Speeding up the task of generating printable invoice details
+- 🕒 Time savings: Speeding up the task of generating printable invoice details
 Consistency: Standardizing all generated invoice details
 - 🧪 Scalability: Applicable to a large volume of invoices, enhancing efficiency
 Flexibility: Customizable design elements for tailored invoices
