@@ -30,7 +30,7 @@ Company: ART-COM Sp. z o.o.
 
 ## 🔁 Setup:
 - 🏗️ Ensure Python 3.x and required dependencies are installed.
-Place invoice data in an Excel file named Invoice Data.xlsx.
+- 📄 Place invoice data in an Excel file named Invoice Data.xlsx.
 Adjust settings within the Python script as needed.
 
 ## 🔤 Run:
