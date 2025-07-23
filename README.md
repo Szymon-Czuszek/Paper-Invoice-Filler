@@ -26,7 +26,7 @@ Company: ART-COM Sp. z o.o.
 - 🕒 Time savings: Speeding up the task of generating printable invoice details
 - 🔁 Consistency: Standardizing all generated invoice details
 - 🧪 Scalability: Applicable to a large volume of invoices, enhancing efficiency
-Flexibility: Customizable design elements for tailored invoices
+- 🎨 Flexibility: Customizable design elements for tailored invoices
 
 ## 🔁 Setup:
 Ensure Python 3.x and required dependencies are installed.
